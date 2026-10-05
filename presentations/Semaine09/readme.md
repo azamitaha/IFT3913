@@ -19,7 +19,7 @@
 - Présentation:
  
 [concept] Cross-platform testing with Appium
-- Nom:
+- Nom: Taha Azami
 - Présentation:
   
 [concept] Tests de comptabilité dans les environnements virtualisés et conteneurisés (Docker, Kubernetes)
